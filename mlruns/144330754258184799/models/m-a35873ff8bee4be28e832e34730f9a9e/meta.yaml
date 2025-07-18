@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Pranav%20Bejgam/Desktop/DVC-MLflow-California-housing/mlruns/144330754258184799/models/m-a35873ff8bee4be28e832e34730f9a9e/artifacts
+creation_timestamp: 1752829692589
+experiment_id: '144330754258184799'
+last_updated_timestamp: 1752829698807
+model_id: m-a35873ff8bee4be28e832e34730f9a9e
+model_type: null
+name: model
+source_run_id: e7c143330e92466ca44beb6bbad0ec82
+status: 2
+status_message: null
